@@ -1,0 +1,5 @@
+pymongo
+flask
+gunicorn
+validators
+python-dotenv

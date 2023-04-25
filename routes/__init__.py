@@ -1,0 +1,1 @@
+from .url_shortener_router import router
